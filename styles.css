@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+button{
+	margin-top: 10px;
+	border: none;
+	background-color: #24a0ed;
+	color: white;
+	padding: 5px;
+	border-radius: 2px;
+}
